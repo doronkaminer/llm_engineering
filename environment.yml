@@ -18,6 +18,7 @@ dependencies:
   - chromadb
   - jupyter-dash
   - sentencepiece
+  - selenium
   - pyarrow
   - faiss-cpu
   - selenium
