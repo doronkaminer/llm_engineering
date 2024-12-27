@@ -8,6 +8,8 @@ dependencies:
   - pip:
     - ipynb
   - python-dotenv
+  - pip:
+    - ipynb
   - requests
   - numpy
   - pandas
