@@ -5,6 +5,8 @@ channels:
 dependencies:
   - python=3.11
   - pip
+  - pip:
+    - ipynb
   - python-dotenv
   - requests
   - numpy
